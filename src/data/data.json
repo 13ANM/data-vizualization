@@ -1,0 +1,8 @@
+[
+	{ "month": "Jan", "sales": 30 },
+	{ "month": "Feb", "sales": 45 },
+	{ "month": "Mar", "sales": 60 },
+	{ "month": "Apr", "sales": 50 },
+	{ "month": "May", "sales": 70 },
+	{ "month": "Jun", "sales": 90 }
+]
